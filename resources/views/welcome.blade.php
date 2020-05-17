@@ -82,6 +82,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     Laravel Branch 2
+
                 </div>
 
                 <div class="links">
