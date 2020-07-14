@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Branch 2
+                    Laravel Asuka Artuyo
 
                 </div>
 
